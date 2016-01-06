@@ -1,8 +1,7 @@
 <?php
-/**
- * Displays the page section of the theme.
- *
- */
+
+/* отвечает за представление страницы shop и категории */
+
 ?>
 
 <?php get_header(); ?>

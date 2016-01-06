@@ -58,4 +58,8 @@ body,a{
 	list-style: none;
 }
 
-/*.product-categories li{float:left; margin-right:20px;}*/
+.woocommerce-pagination li{
+	float:left;
+	list-style: none;
+	margin-right: 15px;
+}
